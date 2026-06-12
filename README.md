@@ -376,8 +376,8 @@ AIML Student | Machine Learning Enthusiast | Aspiring AI Engineer
 
 ### Connect With Me
 
-* LinkedIn: *[(Add your LinkedIn URL)](https://www.linkedin.com/in/anujkumar2005/)*
-* GitHub: *[(Add your GitHub URL)](https://github.com/anujkumar181609)*
+* LinkedIn: *[(Click here...)](https://www.linkedin.com/in/anujkumar2005/)*
+* GitHub: *[(Click here...)](https://github.com/anujkumar181609)*
 
 ---
 
