@@ -320,7 +320,7 @@ st.bar_chart(cluster_counts)
 st.markdown("---")
 
 st.caption("""
-Spotify Hybrid Music Recommendation System
+Spotify Music Recommendation System
 
 K-Means Clustering + Content-Based Filtering + Cosine Similarity
 
