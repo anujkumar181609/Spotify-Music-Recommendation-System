@@ -1,4 +1,4 @@
-# 🎵 Spotify Hybrid Music Recommendation System
+# 🎵 Spotify Music Recommendation System
 
 A Machine Learning-powered music recommendation system that suggests songs with similar audio characteristics using **K-Means Clustering** and **Cosine Similarity**.
 
@@ -6,7 +6,7 @@ The system analyzes Spotify audio features such as danceability, energy, loudnes
 
 ### 🚀 Live Demo
 
-[Spotify Hybrid Music Recommendation System (Live App)](https://spotify-hybrid-music-recommendation-system-9aondm5hxu7cszo6mfc.streamlit.app/?utm_source=chatgpt.com)
+[Spotify Music Recommendation System (Live App)](https://spotify-hybrid-music-recommendation-system-9aondm5hxu7cszo6mfc.streamlit.app/?utm_source=chatgpt.com)
 
 ---
 
@@ -303,14 +303,13 @@ Spotify-Hybrid-Recommender/
 │
 ├── app.py
 ├── spotify_tracks_with_clusters.csv
-├── notebooks/
-│   └── spotify_recommender.ipynb
 │
-├── models/
-│   ├── kmeans_model.pkl
-│   └── scaler.pkl
+├── kmeans_model.pkl
+├── model.ipynb
+├── spotify-tracks-dataset-detailed.csv
 │
 ├── screenshots/
+├── EDA/
 │
 ├── requirements.txt
 │
