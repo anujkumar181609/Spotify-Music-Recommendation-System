@@ -1,4 +1,4 @@
-# 🎵 Spotify Music Recommendation System
+# 🎵 Spotify Hybrid Music Recommendation System
 
 A Machine Learning-powered music recommendation system that suggests songs with similar audio characteristics using **K-Means Clustering** and **Cosine Similarity**.
 
