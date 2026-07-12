@@ -8,7 +8,7 @@ from datetime import datetime
 
 #Page config
 st.set_page_config(
-    page_title="Spotify Hybrid Recommender",
+    page_title="Spotify Music Recommender",
     page_icon="🎵",
     layout="wide"
 )
@@ -59,14 +59,14 @@ else:
 #sidebar
 with st.sidebar:
 
-    st.title("🎵 Spotify Hybrid Recommender")
+    st.title("🎵 Spotify Music Recommender")
 
     st.markdown("---")
 
     st.subheader("📌 About Project")
 
     st.write("""
-Hybrid Music Recommendation System using:
+Spotify Music Recommendation System using:
 
 • K-Means Clustering
 
@@ -111,7 +111,7 @@ Streamlit
 st.title(greeting)
 
 st.markdown("""
-# 🎧 Spotify Hybrid Music Recommendation System
+# 🎧 Spotify Music Recommendation System
 
 Discover songs with similar audio characteristics using
 K-Means clustering and cosine similarity.
