@@ -6,7 +6,7 @@ The system analyzes Spotify audio features such as danceability, energy, loudnes
 
 ### 🚀 Live Demo
 
-[Spotify Music Recommendation System (Live App)](https://spotify-hybrid-music-recommendation-system-9aondm5hxu7cszo6mfc.streamlit.app/?utm_source=chatgpt.com)
+[Spotify Hybrid Music Recommendation System (Live App)](https://spotify-hybrid-music-recommendation-system-9aondm5hxu7cszo6mfc.streamlit.app/?utm_source=chatgpt.com)
 
 ---
 
