@@ -59,14 +59,14 @@ else:
 #sidebar
 with st.sidebar:
 
-    st.title("🎵 Spotify Music Recommender")
+    st.title("🎵 Spotify Hybrid Music Recommender")
 
     st.markdown("---")
 
     st.subheader("📌 About Project")
 
     st.write("""
-Spotify Music Recommendation System using:
+Spotify Hybrid Music Recommendation System using:
 
 • K-Means Clustering
 
@@ -111,7 +111,7 @@ Streamlit
 st.title(greeting)
 
 st.markdown("""
-# 🎧 Spotify Music Recommendation System
+# 🎧 Spotify Hybrid Music Recommendation System
 
 Discover songs with similar audio characteristics using
 K-Means clustering and cosine similarity.
@@ -320,7 +320,7 @@ st.bar_chart(cluster_counts)
 st.markdown("---")
 
 st.caption("""
-Spotify Music Recommendation System
+Spotify Hybrid Music Recommendation System
 
 K-Means Clustering + Content-Based Filtering + Cosine Similarity
 
